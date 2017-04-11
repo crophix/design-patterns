@@ -20,6 +20,7 @@ may be ignored once a better `.gitignore` file has been added to the repo. A gen
 commands required for adding and commiting changes is shown here.
 
 `git add src/main/java/edu/pdx/design-patterns/*`
+
 `git commit -m "Examples changes to code"`
 
 A branch can be pushed to the remote github repo with the following command.
